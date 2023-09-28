@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.ImageView[@resource-id='com.bigoven.android:id/selected_indicator']"
+}

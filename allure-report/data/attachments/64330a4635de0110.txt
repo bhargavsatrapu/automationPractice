@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.AutoCompleteTextView[@resource-id = 'com.bigoven.android:id/searchBarText']"
+}

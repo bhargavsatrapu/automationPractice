@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.Button[@resource-id='com.bigoven.android:id/action_search_all']"
+}

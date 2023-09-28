@@ -1,0 +1,27 @@
+{
+  "wrongCedentialsText": "hjhdsdfjkjsk",
+  "recepiSearch": "dosa",
+  "wrongUserName": "Ravi23fs",
+  "wrongPassword": "325fhwgjcsw",
+  "withoutPasswordError": "This field is required",
+  "withoutUserNameAndpassword": "The username or password you entered is incorrect",
+  "itemName": "biryani",
+  "quantity": "1 kg",
+  "note": "spicy",
+  "department": "meat",
+  "addingTitleForRecipe": "Tea15151",
+  "ingradients": "1 cup fat free milk",
+  "preparation": "`1. In 2-cup microwave-safe bowl whisk together milk, coffee crystals (if desired) and pumpkin pie spice. Whisk in KELLOGG’S TO GO Vanilla Breakfast Shake Mix.",
+  "reciepesLinks": {
+    "receipe1": "https://www.simplyrecipes.com/copycat-ronto-wraps-just-like-disneyland-7568867",
+    "receipe2": "https://www.simplyrecipes.com/one-pot-taco-pasta-recipe-7568232",
+    "receipe3": "https://www.simplyrecipes.com/chinese-tomato-egg-recipe-7562056",
+    "receipe4": "https://www.simplyrecipes.com/tiramisu-overnight-oats-recipe-7968765"
+  },
+  "texts": {
+    "text1": "These Copycat Ronto Wraps Bring Disneyland Home to You ",
+    "text2": "Stop Stressing About Dinner and Make One-Pot Taco Pasta",
+    "text3": "Tomato Egg Is the 20-Minute Meal You’ll Make Again and Again",
+    "text4": "I Turned My Favorite Italian Dessert Into the Easiest Breakfast Ever"
+  }
+}

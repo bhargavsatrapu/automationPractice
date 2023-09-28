@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.TextView[contains(@text,'Stop Stressing About Dinner and Make One-Pot Taco Pasta')]"
+}

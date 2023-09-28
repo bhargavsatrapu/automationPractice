@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.TextView[contains(@text,'These Copycat Ronto Wraps Bring Disneyland Home to You ')]"
+}

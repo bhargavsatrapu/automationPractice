@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.HorizontalScrollView[@resource-id=\"com.bigoven.android:id/tabs\"]/android.widget.LinearLayout/android.widget.LinearLayout[1]"
+}

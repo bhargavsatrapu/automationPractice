@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[@resource-id='fb-root']/parent::android.webkit.WebView/android.view.View/android.widget.TextView[2]"
+}

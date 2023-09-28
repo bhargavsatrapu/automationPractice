@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.LinearLayout[@resource-id='com.bigoven.android:id/type_it_in_fab']/android.widget.ImageButton"
+}

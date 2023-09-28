@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.FrameLayout[@resource-id='com.bigoven.android:id/content_frame']/android.widget.RelativeLayout/android.webkit.WebView/android.webkit.WebView/android.view.View[2]/android.view.View[1]"
+}
